@@ -1,0 +1,18 @@
+.search-list-container {
+    height: 380px;
+    overflow: auto;
+    width:500px;
+  }
+ .search-each {
+    background-color:rgba(84, 56, 20, 0.168);;
+    margin-bottom: 5px;
+    border-radius: 20px;
+    padding: 20px;
+    border: 4px;
+    color: black;
+    display: flex;
+    word-break: break-all;
+  }
+ .each-title{
+    margin-left:10px ;
+}
